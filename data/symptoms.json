@@ -4,5 +4,11 @@
         "symptom": "Fever",
         "severity": "High",
         "date": "04-11-2026"
+    },
+    {
+        "patient": "P103",
+        "symptom": "Cough",
+        "severity": "Medium",
+        "date": "04-11-2026"
     }
 ]
