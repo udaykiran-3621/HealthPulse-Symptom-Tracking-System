@@ -1,4 +1,4 @@
-from menu import menu
+from gui import HealthPulseApp
 
-if __name__ == "__main__":
-    menu()
+app = HealthPulseApp()
+app.mainloop()
